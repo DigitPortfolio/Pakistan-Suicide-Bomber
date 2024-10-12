@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard helps people to understand the impact of the Suicide that happens in Pakistan, It gives full details on the number of death by each location, number of injured, location with the impact rate, and the rate of blast for each day of the week.
+This dashboard helps organiztion to understand the impact of the Suicide that happens in Pakistan, It gives full details on the number of death by each location, number of injured, location with the impact rate, and the rate of blast for each day of the week.
 
 ### Software Used
 - Powerquery -> Data Cleaning
